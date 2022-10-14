@@ -1,4 +1,6 @@
 :point_right: Machine and Deep-Learning to Forex and E-Health :point_left:
+
+
 Salve, sono uno studente di ingegneria informatica, condivido qui i miei progetti creati per la tesi di laurea. Sono in cerca di suggerimenti per il miglioramento degli stessi, o semplicemente spero che possano essere d'aiuto a qualcuno.
 All'interno delle cartelle troverete tutti progetti svolti su Google Colab, organizzati in due cartelle: una per l'applicazione dei metodi di regressione Lineare, Polinomiale, Lasso e Ridge; l'altra cartella è dedicata invece per l'applicazione della rete neurale LSTM.
 Per entrambi i casi di studio sono state applicate tutte le tecniche di regressione e reti LSTM con lo scopo di comparare le diverse tecniche e capire quale fosse la più efficace. All'interno dei codici ".ipynb" troverete tutto il necessario per: gestire e modificare correttamente il dataset (preso da Kaggle o messo a disposizione da terzi), creazione dei dataset di training/testing/validation, creazione del modello lineare/lasso/ridge/polinomiale/LSTM pronto per l'allenamento, allenamento della macchina, predizione, calcolo dell'errore commesso e grafico per il confronto tra predizione-valore vero.
@@ -10,6 +12,8 @@ Spero che questi progetti possano servire a qualcuno o essere semplicemente d'is
 -----#
 
 English Version:
+
+
 Hi, I am a student of computer engineering, I share here my projects that I made for the thesis. I am finding for advices to improve these projects, or I hope that them can help someone in theirs.
 Inside of the folders you will find all the projects written by Google Colab, they are organized in two folders: the first folder is dedicated to the applications of the regression models such as: Linear, Ridge, Lasso and Polynomial; the second folder is dedicated to the application of the LSTM neural network.
 For both case studies I used all the methods previously mentioned (regression and also LSTM) and aim is to compare them and find out the most efficient. Inside of the codes ".ipynb" you will find: management and modification the datasets (taken from kaggle or made available by third parties), creation of the training/testing/validation datasets, creation of the linear/polynomial/lasso/ridge/LSTM model ready for training, fit the models, prediction of values, computation of loss and plot the real values against predicted values.
